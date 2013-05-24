@@ -1,0 +1,2 @@
+Place su in \mydroid\system\extras to replace the default Android implementation of su. Run in \mydroid.
+After changing and rebuilding su, remember to replace Superuser\Superuser\res\raw\su with the new binary.
